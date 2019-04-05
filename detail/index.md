@@ -2,4 +2,4 @@
 
 - ### [スケジュール](./schedule.md)
 
-- ### [席割り](./table-sheet.md)
+- ### [席割り](./table-layout.md)
