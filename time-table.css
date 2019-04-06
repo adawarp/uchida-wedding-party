@@ -8,6 +8,11 @@ body {
   text-align: center;
 }
 
+.head-img {
+  width: 100%;
+  max-width: 43rem;
+}
+
 img {
   width: 80%;
   max-width: 30rem;
