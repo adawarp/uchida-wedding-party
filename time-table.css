@@ -1,0 +1,44 @@
+body {
+  background-color: #38416f;
+  text-align: center;
+  font-size: 80%;
+}
+
+.image-container {
+  text-align: center;
+}
+
+img {
+  width: 80%;
+  max-width: 30rem;
+}
+
+.header {
+  text-align: center;
+  color: white;
+}
+
+.time-table {
+  text-align: center;
+  color: white;
+  font-size: 2vmax;
+}
+
+h1 {
+  font-size: 2vmax;
+}
+
+h2 {
+  font-size: 2vmax;
+}
+
+ul {
+  width: 30vmax;
+  margin: auto;
+  text-align: left;
+  font-size: 1.8vmax;
+}
+
+.artist {
+  color: white;
+}
