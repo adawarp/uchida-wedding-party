@@ -47,3 +47,12 @@ ul {
 .artist {
   color: white;
 }
+
+.map {
+  color: white;
+  font-size: 1.5vmax;
+}
+
+a {
+  color: white;
+}
